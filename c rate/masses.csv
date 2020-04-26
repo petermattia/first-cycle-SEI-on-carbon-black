@@ -1,0 +1,14 @@
+File name,Mass (mg),C rate
+cellA_Cover100_split_CA1,0.977,0.01
+cellA_Cover100_CC4,0.548,0.01
+cellC_Cover30_split_CC5,0.914,0.033333333
+cellD_Cover30_CC6,0.845,0.033333333
+cellA_Cover10_CC7,0.776,0.1
+cellE_Cover3_split_CC8,0.809,0.333333333
+cellC_Cover3_CF6,0.583,0.333333333
+cellG_1C_split_CD3,0.468,1
+cellM_1C_CD5,0.743,1
+cellF_3C_split_CF6,1.011,3
+cellJ_3C_CD8,0.927,3
+cellK_10C_split_CF1,0.868,10
+cellC_10C_CF3,0.872,10
