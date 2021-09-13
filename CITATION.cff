@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the original paper."
+authors:
+  - family-names: Attia
+    given-names: "Peter M."
+    orcid: https://orcid.org/0000-0003-4925-7248
+title: "first-cycle-SEI-on-carbon-black"
+version: 1.1
+doi: 10.5281/zenodo.4625276
+date-released: 2021-05-27
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Attia"
+    given-names: "Peter M."
+    orcid: "https://orcid.org/0000-0003-4745-5726"
+  - family-names: "Harris"
+    given-names: "Stephen J."
+    orcid: "https://orcid.org/0000-0002-5211-3934"
+  - family-names: "Chueh"
+    given-names: "William C."
+    orcid: "https://orcid.org/0000-0002-7066-3470"
+  doi: "10.1149/1945-7111/abff35"
+  journal: "Journal of The Electrochemical Society"
+  month: 5
+  title: "Benefits of Fast Battery Formation in a Model System"
+  issue: 050543
+  volume: 168
+  year: 2021
